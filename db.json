@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Complete project proposal",
+      "assignedTo": 1,
+      "dueDate": "2025-05-10",
+      "status": "pending",
+      "priority": "High"
+    },
+    {
+      "id": 2,
+      "name": "Complete project",
+      "assignedTo": 1,
+      "dueDate": "2025-05-12",
+      "status": "pending",
+      "priority": "High"
+    }
+  ],
+  "users": [
+    { "id": 1, "name": "Shreyas Gune" },
+    { "id": 2, "name": "Nidhi Gaikar" },
+    { "id": 3, "name": "Sanket Joshi" }
+  ]
+}
